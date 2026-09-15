@@ -1,0 +1,11 @@
+{
+  "slug": "agent-registry-lite",
+  "name": "Agent Registry Lite",
+  "kind": "agent",
+  "description": "Create portable agent discovery records without a heavyweight governance registry.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
